@@ -17,49 +17,50 @@ function Portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/portfolio-1.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/portfolio/movienight.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/project1" title="View Github"><i className="bx bxl-github"></i></a>
-                            <a href="https://jaime-gg.github.io/project1/" title="View Page"><i className="bx bx-link"></i></a>
+                            <a href="https://github.com/evand1998/Movie-Night" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://evand1998.github.io/Movie-Night/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/portfolio-2.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/portfolio/DI.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/tech-blog" title="View Github"><i className="bx bxl-github"></i></a>
-                            <a href="https://um-technically-blog.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
+                            <a href="https://github.com/evand1998/DevelopIT-Full-Stack-Forum" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://safe-river-61746.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/portfolio-3.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/portfolio/weather.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/storeEZ" title="View Github"><i className="bx bxl-github"></i></a>
-                            <a href="https://store-ez.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
+                            <a href="https://github.com/evand1998/WA2" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://evand1998.github.io/WA2/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/portfolio-4.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/portfolio/sch.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/note-taker" title="View Github"><i className="bx bxl-github"></i></a>
-                            <a href="https://the-grand-note-taker.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
+                            <a href="https://github.com/evand1998/DailyPlanner" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://evand1998.github.io/DailyPlanner/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/portfolio-5.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/portfolio/codingq.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/team-profile-generator" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://github.com/evand1998/CQ2" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://evand1998.github.io/CQ2/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
@@ -68,7 +69,8 @@ function Portfolio() {
                         <div className="portfolio-wrap">
                         <img src={require('../../Assets/portfolio/portfolio-6.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
-                            <a href="https://github.com/jaime-gg/readme-generator" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="" title="View Github"><i className="bx bxl-github"></i></a>
+                            <a href="https://offroad-budgeter.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
                         </div>
                     </div>
