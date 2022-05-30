@@ -1,4 +1,4 @@
-   import React from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
@@ -8,7 +8,7 @@ import 'boxicons/css/boxicons.min.css'
 import 'aos/dist/aos.css'
 
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import 'aos/dist/aos.js'
+import './aos/dist/aos.js'
 
 ReactDOM.render(
 
